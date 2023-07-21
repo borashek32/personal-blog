@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/personal-blog/static/css/main.2ce0b2b1.css",
+    "main.css": "/personal-blog/static/css/main.6711c175.css",
     "main.js": "/personal-blog/static/js/main.4a40d52b.js",
     "static/js/787.dfb08324.chunk.js": "/personal-blog/static/js/787.dfb08324.chunk.js",
     "static/media/lato-regular.svg": "/personal-blog/static/media/lato-regular.b7065980d5b60671ea02.svg",
@@ -15,12 +15,12 @@
     "static/media/ph.svg": "/personal-blog/static/media/ph.7112a1ca142f44c79fab001232ef3474.svg",
     "index.html": "/personal-blog/index.html",
     "static/media/arr.svg": "/personal-blog/static/media/arr.27616520435a117f344fc78b3ad81276.svg",
-    "main.2ce0b2b1.css.map": "/personal-blog/static/css/main.2ce0b2b1.css.map",
+    "main.6711c175.css.map": "/personal-blog/static/css/main.6711c175.css.map",
     "main.4a40d52b.js.map": "/personal-blog/static/js/main.4a40d52b.js.map",
     "787.dfb08324.chunk.js.map": "/personal-blog/static/js/787.dfb08324.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2ce0b2b1.css",
+    "static/css/main.6711c175.css",
     "static/js/main.4a40d52b.js"
   ]
 }
