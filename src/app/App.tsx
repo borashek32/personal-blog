@@ -32,7 +32,7 @@ function App() {
                         <Route path={"/write-me"} element={<WriteMe />} />
                     </Routes>
                 </Layout>
-                <Footer />
+                {/*<Footer />*/}
             </div>
         </HashRouter>
     );
