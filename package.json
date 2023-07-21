@@ -1,5 +1,6 @@
 {
     "name": "personal-blog",
+    "homepage": "https://borashek32.github.io/personal-blog",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
