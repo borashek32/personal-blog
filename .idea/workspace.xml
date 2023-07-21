@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2b04f512-bf55-4042-a382-8605a4427c99" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.prettierrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/lato-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/lato-regular.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/lato-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/lato-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/lato-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/arr.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/arrow.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/autumn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/fb.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/flat.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/ig.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/me.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/nature.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/paper.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/ph.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/photo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/pi.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/post1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/post2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/post3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/project.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/sidebar_header.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/tw.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/vk.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/work1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/work2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/button/Button.module.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/button/Button.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/features/aboutMe/AboutMe.module.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/features/aboutMe/AboutMe.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/features/nav/Nav.module.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/features/nav/Nav.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/features/profile/Profile.module.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/features/sidebar/Sidebar.module.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/features/sidebar/Sidebar.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/Layout.module.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/Layout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/fonts.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/index.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/reset.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/variables.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/App.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/App.test.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/reportWebVitals.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/setupTests.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="TypeScript JSX File" />
+        <option value="Sass File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ScLkjmUgWO807DbEfcDRtXk3Bq" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Applications/MAMP/htdocs/way_samurai/projects/personal-blog/src/features/profile",
+    "list.type.of.created.stylesheet": "Sass",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "yarn",
+    "prettierjs.PrettierConfiguration.Package": "/Applications/MAMP/htdocs/way_samurai/projects/personal-blog/node_modules/prettier",
+    "settings.editor.selected.configurable": "preferences.sourceCode.TypeScript",
+    "ts.external.directory.path": "/Applications/MAMP/htdocs/way_samurai/projects/personal-blog/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/features/profile" />
+      <recent name="$PROJECT_DIR$/src/features/nav" />
+      <recent name="$PROJECT_DIR$/src/styles" />
+      <recent name="$PROJECT_DIR$/src/assets" />
+      <recent name="$PROJECT_DIR$/src/assets/img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/styles" />
+      <recent name="$PROJECT_DIR$/src/app" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b04f512-bf55-4042-a382-8605a4427c99" name="Changes" comment="" />
+      <created>1689441067222</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689441067222</updated>
+      <workItem from="1689441068441" duration="1966000" />
+      <workItem from="1689443123662" duration="2362000" />
+      <workItem from="1689445564062" duration="10822000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

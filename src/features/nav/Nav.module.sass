@@ -1,0 +1,212 @@
+@import "../../common/styles/variables"
+
+.header
+  display: flex
+  align-items: center
+  position: fixed
+  top: 0
+  right: 0
+  z-index: $z-index-header
+  width: calc(100% - 300px)
+  height: 50px
+  box-shadow: 0 2px 10px $color-black-shadow
+
+  @media (max-width: 1087.9px)
+    width: 100%
+
+.header:before
+  content: ''
+  position: absolute
+  height: 100%
+  width: 100%
+  top: 0
+  left: 0
+  background-color: $color-black-one
+  z-index: 2
+
+.header__nav
+  display: flex
+  align-items: center
+  justify-content: space-between
+
+.header__menu_big
+  display: flex
+  // position: relative
+  justify-content: space-between
+  // align-content: center
+
+  @media (max-width: 767.9px)
+    display: none
+
+//.header__menu_small
+//
+//  @media (max-width: 767.9px)
+//    position: fixed
+//    left: 0
+//    width: 100%
+//    height: 100%
+//    flex-direction: column
+//    justify-content: start
+//    background-color: $color-black-one
+//    padding: 40px 0 0 0
+//    //top: -100%
+//
+//@media (max-width: 767.9px)
+//  .header__menu.active
+//    top: 0
+//    transition: all 0.4s ease-in-out 0.4s
+//
+.header__left, .header__right
+  display: flex
+  z-index: 2
+
+.header__left
+  padding-left: 2px
+
+  @media (max-width: 767.9px)
+    display: block
+    padding: 0
+
+.header__right
+  position: absolute
+  z-index: 2
+  right: 250px
+  top: 0
+
+  @media (max-width: 767.9px)
+    position: static
+    display: block
+    padding: 0 0 30px 0
+
+.header__li
+  cursor: pointer
+  height: 50px
+  display: flex
+  align-items: center
+  padding: 13px 13px
+  transition: all 0.2s linear
+
+  &:hover
+    background-color: $color-blue-two
+    height: 50px
+
+.header__li_subnav
+  position: relative
+
+  &:hover
+    > .subnav
+      display: block
+
+.header__li_flex
+  display: flex
+
+.arrow
+  margin: 5px 0 0 12px
+  border-style: solid
+  border-width: 6px 5px 0 5px
+  border-color: #ffffff transparent transparent transparent
+
+.header__link
+  font-size: 11px
+  text-transform: uppercase
+  line-height: calc(16/14*100%)
+  color: $color-white
+
+.header__link_down
+  margin-top: 2px
+
+// ---------------------------------------SEARCH---------------------------------------
+.header__search
+  position: absolute
+  z-index: 2
+  right: 0
+  top: 0
+
+  height: 50px
+  width: 250px
+  margin-left: 30px
+  background-color: $color-black-three
+
+  &:focus
+    background-color: $color-black-three
+
+
+.header__search_placeholder
+  background-color: $color-black-three
+  border: none
+  padding: 14px 12px 0px 20px
+  color: $color-white
+
+// ---------------------------------------SUBNAV---------------------------------------
+.subnav
+  //display: none
+
+  position: absolute
+  z-index: 4000
+  top: 100%
+  left: 0
+
+  width: 165px
+  background-color: $color-blue-two
+  box-shadow: 0px 6px 8px $color-black-shadow
+
+.subnav__li
+  padding: 10px 13px
+  transition: all 0.2s linear
+
+  &:hover
+    background-color: $color-blue-hover
+
+.subnav__li p
+  font-size: 12px
+  line-height: calc(14/12*100%)
+
+.subnav__a
+  font-size: 12px
+  line-height: calc(14/12*100%)
+  color: $color-white
+
+//// ---------------------------------------BURGER---------------------------------------
+//.header__burger
+//  display: none
+//
+//@media (max-width: 767.9px)
+//  .header__burger
+//    display: block
+//    position: relative
+//    width: 30px
+//    height: 20px
+//    z-index: 3
+//    left: 15px
+//    top: 10px
+//    cursor: pointer
+//
+//  .header__burger span
+//    position: absolute
+//    background-color: $color-white
+//    width: 100%
+//    height: 2px
+//    top: 9px
+//    transition: all 0.3s ease-in-out 0s
+//
+//  .header__burger:before,
+//  .header__burger:after
+//    content: ''
+//    background-color: $color-white
+//    position: absolute
+//    width: 100%
+//    height: 2px
+//    transition: all 0.3s ease-in-out 0s
+//  .header__burger:before
+//    top: 0
+//  .header__burger:after
+//    bottom: 0
+//
+//  .header__burger.active:before
+//    transform: rotate(45deg)
+//    top: 9px
+//  .header__burger.active:after
+//    transform: rotate(-45deg)
+//    bottom: 9px
+//  .header__burger.active span
+//    transform: scale(0)
